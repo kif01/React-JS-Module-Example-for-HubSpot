@@ -1,6 +1,6 @@
 # CMS React Module with Serverless Functions Example
 
-This directory contains an example of a CMS React Module that makes use of serverless functions on the new HubSpot developer platform.
+This directory contains an example of a CMS React Module for a Custom Form that makes use of serverless functions on the new HubSpot developer platform.
 
 ## Overview
 
