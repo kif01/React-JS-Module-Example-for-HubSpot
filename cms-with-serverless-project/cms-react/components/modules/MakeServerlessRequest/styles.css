@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300&display=swap');
+
+
+body {
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 300 !important;
+  color: #213343 !important;
+}
+
+label {
+  font-family: 'Lexend Deca', sans-serif !important;
+  font-weight: 700 !important;
+  color: #213343 !important;
+  font-size: 14px !important;
+}
+
+/* Change font-family for multiple select options */
+select {
+  font-family: 'Lexend Deca', sans-serif !important;
+  font-weight: 300 !important;
+  color: #213343 !important;
+  font-size: 16px !important;
+}
+
+/* Optional: Style options inside the select */
+select option {
+  font-family: 'Lexend Deca', sans-serif !important;
+  font-weight: 300 !important;
+  color: #33475b !important;
+  font-size: 16px !important;
+}
+
+
+form{
+  background-color: #f6f9fc;
+}
+
+input{
+  font-family: 'Lexend Deca', sans-serif !important;
+  font-weight: 300 !important;
+  color: #33475b !important;
+  font-size: 16px !important;
+}
+
+/* Spinner CSS */
+.spinner {
+    border: 4px solid #f3f3f3; /* Light grey */
+    border-top: 4px solid #3498db; /* Blue */
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
